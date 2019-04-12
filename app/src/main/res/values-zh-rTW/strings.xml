@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nice">身材很好~</string>
+    <string name="yourbmi">你的BMI是</string>
+    <string name="slim">你太瘦了!</string>
+    <string name="heavy">你過重啦!</string>
+    <string name="meow">喵!</string>
+    <string name="hello">你好</string>
+    <string name="weight">請輸入體重</string>
+    <string name="Name">請輸入姓名</string>
+    <string name="height">請輸入身高</string>
+</resources>

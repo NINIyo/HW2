@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="meow">MEOW!</string>
+    <string name="hello">Hello</string>
+    <string name="yourbmi">Your BMI is</string>
+    <string name="heavy">you are too heavy!!</string>
+    <string name="slim">you are too slim!!</string>
+    <string name="nice">your body is good!!</string>
+    <string name="Name">Name</string>
+    <string name="height">Height(cm)</string>
+    <string name="weight">Weight(cm)</string>
+</resources>
